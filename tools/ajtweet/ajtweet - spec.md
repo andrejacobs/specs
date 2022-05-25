@@ -2,6 +2,8 @@
 
 Date: 11/05/2022
 
+Update 25/05/2022: The implementation can be found here <https://github.com/andrejacobs/ajtweet-cli>.
+
 ## Motivation
 
 What is it for?
